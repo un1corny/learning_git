@@ -1,1 +1,5 @@
 ho-ho-ho!
+git init
+git status   // проверить статус
+git add <filename> // --all
+git commit -m 'first commit' // создан комментарий
