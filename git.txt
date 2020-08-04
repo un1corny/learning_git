@@ -3,3 +3,6 @@ git init
 git status   // проверить статус
 git add <filename> // --all
 git commit -m 'first commit' // создан комментарий
+// создать новый репозиторий на гитхаб
+git remote add origin https://github.com/un1corny/learning_git.git
+git push -u origin master // пушим свой мастер в ориджин
